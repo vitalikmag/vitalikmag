@@ -15,7 +15,7 @@
 </a>
 
   
-### About me.  
+### 💁‍♂️ About me.  
   Backend developer with experience in web applications and API development.
 Proficient in Python and Django framework. In my career I have experience working in a
 large team, creating and implementing new business processes.
@@ -30,7 +30,7 @@ my work.
   
 <br/>  
 
-## Skills:
+## 💻 Skills:
 <div align="left">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>
@@ -50,7 +50,7 @@ my work.
 
 <br/>  
 
-## Stats:  
+## ⭐⭐ Stats:  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalikmag&hide_border=true&layout=compact&theme=vision-friendly-dark" align="left" />
 <img src="https://www.codewars.com/users/vitalikmag/badges/large" align="left" />
 
