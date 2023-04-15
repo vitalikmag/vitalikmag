@@ -16,7 +16,7 @@
 
   
 ### 💁‍♂️ About me.  
-  Backend developer with experience in web applications and API development.
+  Python developer with experience in web applications and API development.
 Proficient in Python and Django framework. In my career I have experience working in a
 large team, creating and implementing new business processes.
 <br/>  
