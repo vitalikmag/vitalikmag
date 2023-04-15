@@ -50,7 +50,7 @@ my work.
 
 <br/>  
 
-## ⭐⭐ Stats:  
+## ⭐⭐ Stats:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalikmag&hide_border=true&layout=compact&theme=vision-friendly-dark" align="left" />
 <img src="https://www.codewars.com/users/vitalikmag/badges/large" align="left" />
 
